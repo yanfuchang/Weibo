@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\YYweibo\weiboSDK\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e894060494ecaf72c098ef612a44a1689122b2d">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\YYweibo-weiboSDK-unspecified_4fec051650637ae8f411aa865e1b52e8ed8cf2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yan fuchang\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8ae0d57af98c2d063df5630dec0b34e172aba516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ca728ba476d78ee772292d8e9317e74f802e35b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1db6e05a647d44270866f07982de56ca428cf806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_69adc39eb0be2c81ce7a002a08e519510d455a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\YYweibo\weiboSDK\unspecified\jars\libs\weibosdkcore_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac2a9a64d7c97f36398f517045816f9043f07f93">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\weibosdkcore_release_213038b480b31fb8a10d62f12e5d4cc95619cf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0e3f6928224124d84dcd6509e043a8d95c36321f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_c3065c6b2525a6aa69d0e95fc4bd874dd6bc876c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a6754fa480d407151b7e45e3d49f61afade00acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_537356030c84408c5d095a761470a38e132d23ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_887fb5fa88087437e117229f5f30b818dfe3e557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3c53238bb6a09f6471d59da5fa0c866f9810a32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\libs\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\gson-2.7_b32ccc57f6a5795157d1f997f3e0474c30bf994b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ddc1d56d9a8628aad3d94258c77ae36f0cad65d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7d0c4d66327bbebc582d12654fdc9a01c504f2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3dee9edb9192ce73fc91bc1c555ddf87ad0cfe95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_18c89094eb72e9ac64d51466bbc37c542bcf4013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9c38a4502bc82ef987859287d73c545a0c31dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ca728ba476d78ee772292d8e9317e74f802e35b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yan fuchang\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8ae0d57af98c2d063df5630dec0b34e172aba516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1db6e05a647d44270866f07982de56ca428cf806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\YYweibo\weiboSDK\unspecified\jars\libs\weibosdkcore_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ac2a9a64d7c97f36398f517045816f9043f07f93">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\weibosdkcore_release_213038b480b31fb8a10d62f12e5d4cc95619cf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a6754fa480d407151b7e45e3d49f61afade00acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_4d2b977f4dcb327695676d0c9a7992b0af98679c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_69adc39eb0be2c81ce7a002a08e519510d455a03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_c3065c6b2525a6aa69d0e95fc4bd874dd6bc876c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d9c38a4502bc82ef987859287d73c545a0c31dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_887fb5fa88087437e117229f5f30b818dfe3e557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\YYweibo\PullToRefresh\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="348d75431a50e1c13cc056a6019ca6b0953a60ab">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\YYweibo-PullToRefresh-unspecified_27a503ecb86b23c82f7e1f201340b798fd760201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_537356030c84408c5d095a761470a38e132d23ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_0e3f6928224124d84dcd6509e043a8d95c36321f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3c53238bb6a09f6471d59da5fa0c866f9810a32e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3dee9edb9192ce73fc91bc1c555ddf87ad0cfe95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\libs\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\gson-2.7_b32ccc57f6a5795157d1f997f3e0474c30bf994b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ddc1d56d9a8628aad3d94258c77ae36f0cad65d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7d0c4d66327bbebc582d12654fdc9a01c504f2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_4d2b977f4dcb327695676d0c9a7992b0af98679c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\YYweibo\yYweibo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_18c89094eb72e9ac64d51466bbc37c542bcf4013.jar" />
+    </item>
+
+</items>

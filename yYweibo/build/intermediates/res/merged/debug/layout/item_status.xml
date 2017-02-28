@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll_card_content"
+    android:background="@drawable/bg_white2gray_sel"
+    android:orientation="vertical">
+
+<!--***************一个lv页面************-->
+    <include layout="@layout/include_avatar"/>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        style="@style/TextViewBody"
+        android:layout_marginTop="-16dp"
+        android:padding="16dp"
+        android:text="我是祖国的小花朵"/>
+
+    <include
+        android:id="@+id/include_status_image"
+        layout="@layout/include_status_image"
+        android:visibility="gone"/>
+
+    <include
+        android:id="@+id/include_retweeted_status"
+        layout="@layout/include_retweeted_status"
+        android:visibility="gone" />
+    <include
+        android:id="@+id/ll_bottom_control"
+        layout="@layout/include_status_controlbar" />
+</LinearLayout>

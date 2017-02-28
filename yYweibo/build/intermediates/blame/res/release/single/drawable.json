@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_white2gray_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\bg_white2gray_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\correct_oran.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\correct_oran.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_at.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_at.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\txtcolor_oran2alpha_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\txtcolor_oran2alpha_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\layerlist_tab_indicator_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\layerlist_tab_indicator_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\com_sina_weibo_sdk_button_blue.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_blue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_keyboard.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_keyboard.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\correct_oran_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\correct_oran_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\PullToRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_account_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\com_sina_weibo_sdk_button_grey.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_button_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\navigationbar_back_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\navigationbar_back_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\emotion_delete_icon.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\emotion_delete_icon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_pics.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_pics.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_frame_logo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_emotion.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_emotion.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_lgray2dgray_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\bg_lgray2dgray_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\txtcolor_gray2oran_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\txtcolor_gray2oran_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_dgray2white_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\bg_dgray2white_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\icon_add.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\icon_add.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_more.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_tran2gray_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\bg_tran2gray_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\compose_pic_add_more.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\compose_pic_add_more.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\txtcolor_white2black_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\txtcolor_white2black_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\icon_home.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\icon_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\correct_oran_dark.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\correct_oran_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\icon_selfinfo.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\icon_selfinfo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\btn_insert_topic.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\btn_insert_topic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\bg_retweet_sel.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\bg_retweet_sel.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\icon_square.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\icon_square.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\YYweibo\\weiboSDK\\unspecified\\res\\drawable\\com_sina_weibo_sdk_login_button_with_original_logo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\icon_meassage.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable\\icon_meassage.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    }
+]

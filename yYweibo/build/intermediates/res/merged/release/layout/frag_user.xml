@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_gray">
+
+    <include layout="@layout/include_titlebar"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:paddingTop="4dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/user_info"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:padding="16dp"
+                android:orientation="horizontal"
+                android:background="@drawable/bg_white2gray_sel">
+                <ImageView
+                    android:id="@+id/iv_avatar"
+                    android:layout_width="56dp"
+                    android:layout_height="56dp"
+                    android:layout_gravity="center_vertical"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ic_launcher" />
+                <RelativeLayout
+                    android:id="@+id/user_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingRight="8dp"
+                    android:paddingLeft="8dp">
+                    <TextView
+                        android:id="@+id/tv_subhead"
+                        style="@style/TextViewSubhead"
+                        android:text="yan" />
+
+                    <TextView
+                        android:id="@+id/tv_caption"
+                        style="@style/TextViewCaption"
+                        android:layout_below="@id/tv_subhead"
+                        android:layout_marginTop="8dp"
+                        android:text="开心"
+                        android:textColor="@color/txt_gray" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+</LinearLayout>

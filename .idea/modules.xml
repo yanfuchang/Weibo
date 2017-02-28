@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YYweibo.iml" filepath="$PROJECT_DIR$/YYweibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" filepath="$PROJECT_DIR$/pullToRefresh/pullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weiboSDK/weiboSDK.iml" filepath="$PROJECT_DIR$/weiboSDK/weiboSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yYweibo/yYweibo.iml" filepath="$PROJECT_DIR$/yYweibo/yYweibo.iml" />
+    </modules>
+  </component>
+</project>

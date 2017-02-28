@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_home.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_home.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_profile.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_profile.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_home_highlighted.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_home_highlighted.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_add_icon.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_add_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_add_icon_pressed.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_add_icon_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_message_center_highlighted.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_message_center_highlighted.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_profile_highlighted.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_profile_highlighted.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_discover_highlighted.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_discover_highlighted.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_discover.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_discover.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\tabbar_message_center.png",
+        "source": "D:\\AndroidStudioProjects\\YYweibo\\yYweibo\\src\\main\\res\\drawable-hdpi\\tabbar_message_center.png"
+    }
+]
